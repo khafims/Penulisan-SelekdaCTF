@@ -1,0 +1,6 @@
+"Defined","Location","Label","Code Unit","String View","String Type","Length","Is Word"
+"","0048e070","s_Welcome_to_SELEKDA!_You_have_mad_0048e070","ds \"Welcome to SELEKDA! You have made it to Reverse Engineering Challenge. Please enter your username!\"","\"Welcome to SELEKDA! You have made it to Reverse Engineering Challenge. Please enter your username!\"","string","99","true"
+"","0048f97a","","ds \"Too many users\"","\"Too many users\"","string","15","true"
+"","0048e288","s_Thank_you_for_the_verification._H_0048e288","ds \"Thank you for the verification. Here take your bags and Username card\, you're now -> SELEKDA{%s\"","\"Thank you for the verification. Here take your bags and Username card\, you're now -> SELEKDA{%s\"","string","96","true"
+"","00495c87","","ds \"EUSERS\"","\"EUSERS\"","string","7","true"
+"","00494a30","__PRETTY_FUNCTION__.0","ds \"__pthread_mutex_unlock_usercnt\"","\"__pthread_mutex_unlock_usercnt\"","string","31","true"
